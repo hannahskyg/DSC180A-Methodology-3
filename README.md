@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Hannah Gonzalez
-hagonzalez@ucsd.edu
+Hannah Gonzalez and Janie Chan
